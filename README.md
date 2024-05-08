@@ -23,9 +23,7 @@
   - [Place Holder](https://github.com/joshmadakorcc/post-install-config)
   - [Place Holder](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>C++</b>
-  - [Place Holder](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [Place Holder](https://github.com/joshmadakorcc/post-install-config)
-  - [Place Holder](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Student Roster](https://github.com/golayjustin/student-roster)
 
 
 <h2>🤳Connect with me:</h2>
