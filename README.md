@@ -1,13 +1,23 @@
-<h1>Hi, I'm Justin! <br/>Computer Science Student</h1>
+<h1>Hi, I'm Justin, an <a href="https://linkedin.com/in/justin-golay-50361b56">IT Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]***LINK
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]***LINK
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Justin Golay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/justin-golay-50361b56
+
+
+
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/justin-golay-50361b56
