@@ -19,7 +19,7 @@
   - [Place Holder](https://github.com/joshmadakorcc/post-install-config)
   - [Place Holder](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Python</b>
-  - [Place Holder](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [WGU Parcel Service](https://github.com/golayjustin/wgu-parcel-service)
   - [Place Holder](https://github.com/joshmadakorcc/post-install-config)
   - [Place Holder](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>C++</b>
