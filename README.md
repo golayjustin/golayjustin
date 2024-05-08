@@ -17,7 +17,7 @@
 - <b>Java Spring Boot</b>
   - [Spring Boot Back-End Application](https://github.com/golayjustin/spring-boot-back-end/tree/main)
   - [Inventory Application](https://github.com/golayjustin/inventory-application/tree/main)
-  - [Place Holder](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Java Multithreading](https://github.com/golayjustin/java-multithreading/tree/main)
 - <b>Python</b>
   - [WGU Parcel Service](https://github.com/golayjustin/wgu-parcel-service)
 - <b>C++</b>
