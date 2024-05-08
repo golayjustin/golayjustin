@@ -15,8 +15,8 @@
 <h2>👨‍💻 WGU Computer Science Projects:</h2>
 
 - <b>Java Spring Boot</b>
+  - [Spring Boot Back-End Application](https://github.com/golayjustin/spring-boot-back-end/tree/main)
   - [Inventory Application](https://github.com/golayjustin/inventory-application/tree/main)
-  - [Place Holder](https://github.com/joshmadakorcc/post-install-config)
   - [Place Holder](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Python</b>
   - [WGU Parcel Service](https://github.com/golayjustin/wgu-parcel-service)
