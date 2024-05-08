@@ -19,6 +19,7 @@
   - [Inventory Application](https://github.com/golayjustin/inventory-application/tree/main)
   - [Java Multithreading](https://github.com/golayjustin/java-multithreading/tree/main)
 - <b>Python</b>
+  - [Machine Learning Insurance Cost Application](https://github.com/golayjustin/machine-learning-insurance-cost)
   - [WGU Parcel Service](https://github.com/golayjustin/wgu-parcel-service)
 - <b>C++</b>
   - [Student Roster](https://github.com/golayjustin/student-roster)
