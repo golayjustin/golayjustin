@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/golayjustin/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/golayjustin/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/golayjustin/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/golayjustin/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs (***Documentation in Progress***)](https://github.com/golayjustin/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols (***Documentation in Progress***)](https://github.com/golayjustin/azure-network-protocols)
  
 
  
